@@ -547,7 +547,7 @@ const App = () => {
           <div className="portfolio-grid">
             <div className="portfolio-item">
               <img
-                src="https://images.unsplash.com/photo-1558655146-364adaf1fcc9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                src="https://pixabay.com/images/download/shopping-4694470_1920.jpg"
                 alt="E-commerce Website"
                 className="portfolio-img"
               />
