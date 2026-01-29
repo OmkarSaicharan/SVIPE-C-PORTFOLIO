@@ -652,19 +652,21 @@ const App = () => {
                 </a>
               </div>
             </div>
+
+            
              <div className="portfolio-item">
               <img
                 src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="UPSC Book Library"
+                alt="LearnHub"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
-                <h3>UPSC Book Library</h3>
+                <h3>LearnHub</h3>
                 <p>
                   All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
                 </p>
                 <a
-                  href="https://upsclibrary.vercel.app/"
+                  href="https://learninteractive.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline"
@@ -674,19 +676,21 @@ const App = () => {
                 </a>
               </div>
             </div>
+
+            
              <div className="portfolio-item">
               <img
                 src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="UPSC Book Library"
+                alt="Plant Disease Recognizer and Fertilizer Recomender"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
-                <h3>UPSC Book Library</h3>
+                <h3>Plant Disease Recognizer and Fertilizer Recomender</h3>
                 <p>
                   All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
                 </p>
                 <a
-                  href="https://upsclibrary.vercel.app/"
+                  href="https://plant-doctor-ai-eight.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline"
@@ -696,19 +700,21 @@ const App = () => {
                 </a>
               </div>
             </div>
+
+            
              <div className="portfolio-item">
               <img
                 src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="UPSC Book Library"
+                alt="Ai-Dermatologist/Dermavision"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
-                <h3>UPSC Book Library</h3>
+                <h3>Ai-Dermatologist/Dermavision</h3>
                 <p>
                   All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
                 </p>
                 <a
-                  href="https://upsclibrary.vercel.app/"
+                  href="https://skinhealth-ai.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline"
