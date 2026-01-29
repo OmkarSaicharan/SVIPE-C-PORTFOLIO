@@ -652,6 +652,72 @@ const App = () => {
                 </a>
               </div>
             </div>
+             <div className="portfolio-item">
+              <img
+                src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="UPSC Book Library"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>UPSC Book Library</h3>
+                <p>
+                  All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
+                </p>
+                <a
+                  href="https://upsclibrary.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+             <div className="portfolio-item">
+              <img
+                src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="UPSC Book Library"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>UPSC Book Library</h3>
+                <p>
+                  All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
+                </p>
+                <a
+                  href="https://upsclibrary.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+             <div className="portfolio-item">
+              <img
+                src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="UPSC Book Library"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>UPSC Book Library</h3>
+                <p>
+                  All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
+                </p>
+                <a
+                  href="https://upsclibrary.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
