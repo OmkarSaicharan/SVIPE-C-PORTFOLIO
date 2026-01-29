@@ -656,14 +656,14 @@ const App = () => {
             
              <div className="portfolio-item">
               <img
-                src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://media.istockphoto.com/id/1213470247/photo/studying-with-video-online-lesson-at-home.jpg?s=612x612&w=0&k=20&c=-oSdwIzPT0eHW8t5y2czN_-gH6DZdV1tFvGcSkM0UWM="
                 alt="LearnHub"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
                 <h3>LearnHub</h3>
                 <p>
-                  All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
+                  All Topics and Cources in one place. All related subscriptions, downloads videos and materials in one click.Interaction and Doughts asking chats.
                 </p>
                 <a
                   href="https://learninteractive.vercel.app/"
@@ -680,14 +680,14 @@ const App = () => {
             
              <div className="portfolio-item">
               <img
-                src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://images.pexels.com/photos/20280076/pexels-photo-20280076.jpeg"
                 alt="Plant Disease Recognizer and Fertilizer Recomender"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
                 <h3>Plant Disease Recognizer and Fertilizer Recomender</h3>
                 <p>
-                  All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
+                  All Plant Disease Predictions and Fertilizer Recomender for all kind of crops ad there problems in one click.
                 </p>
                 <a
                   href="https://plant-doctor-ai-eight.vercel.app/"
@@ -704,14 +704,14 @@ const App = () => {
             
              <div className="portfolio-item">
               <img
-                src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://media.istockphoto.com/id/2192204816/photo/female-dermatologist-screening-patient-for-skin-cancer.jpg?s=1024x1024&w=is&k=20&c=UzzCAS_NvkdmT-z5Kq6u96bxD0Jmw_pEKkFyfdidAOg="
                 alt="Ai-Dermatologist/Dermavision"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
                 <h3>Ai-Dermatologist/Dermavision</h3>
                 <p>
-                  All Topics and Content of upsc preparation in one place. All related links downloads videos and materials in one click.
+                  All kind of skin disease prediction and Recomends required treatements in one click.
                 </p>
                 <a
                   href="https://skinhealth-ai.vercel.app/"
