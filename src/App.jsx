@@ -547,7 +547,7 @@ const App = () => {
           <div className="portfolio-grid">
             <div className="portfolio-item">
               <img
-                src="https://pixabay.com/get/gcc78b864dfa7d5df294d4b64df10c669bc410af0648cc2aa65d186b22860042ac7de745f7ae23ce48485a78e93cb9e0f0d7d594574bf3458da344b994f9340c0_1920.jpg"
+                src="https://media.istockphoto.com/id/1455412082/photo/mobile-phone-or-smartphone-with-cart-shopping-paper-bags-isolated-on-pink-background-online.jpg?s=612x612&w=0&k=20&c=y9nnUaWtjiRyL9npeLzttRlBIZ-e2HxP7fWBL9zeImE="
                 alt="E-commerce Website"
                 className="portfolio-img"
               />
