@@ -757,7 +757,7 @@ const App = () => {
       <section id="team" className="section">
         <div className="container">
           <div className="section-title">
-            <h2>Our Team</h2>
+            <h2>My Team</h2>
             <p>Passionate professionals dedicated to creating exceptional digital solutions.</p>
           </div>
 
