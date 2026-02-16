@@ -727,14 +727,14 @@ const App = () => {
 
             <div className="portfolio-item">
               <img
-                src="https://media.istockphoto.com/id/2192204816/photo/female-dermatologist-screening-patient-for-skin-cancer.jpg?s=1024x1024&w=is&k=20&c=UzzCAS_NvkdmT-z5Kq6u96bxD0Jmw_pEKkFyfdidAOg="
+                src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
                 alt="Omnistore-express"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
                 <h3>Omnistore-express</h3>
                 <p>
-                  All kind of skin disease prediction and Recomends required treatements in one click.
+                  online General store product bookings and pre bookings.Just go and grab items.
                 </p>
                 <a
                   href="https://omnistore-express.vercel.app/"
