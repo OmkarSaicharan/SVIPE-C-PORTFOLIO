@@ -808,7 +808,7 @@ const App = () => {
           <div className="testimonial-slider">
             <div className="testimonial-card">
               <p className="testimonial-text">
-                "Working with this team was an absolute pleasure. They understood our vision and delivered a website that exceeded our expectations. The attention to detail and communication throughout the
+                "Working with this developer was an absolute pleasure. He understood our vision and delivered a website that exceeded our expectations. The attention to detail and communication throughout the
                 project was exceptional."
               </p>
               <div className="testimonial-author">
