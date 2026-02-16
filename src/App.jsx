@@ -540,7 +540,7 @@ const App = () => {
       <section id="portfolio" className="section portfolio">
         <div className="container">
           <div className="section-title">
-            <h2>Our Recent Work</h2>
+            <h2>My Recent Work</h2>
             <p>See how we've helped businesses transform their digital presence.</p>
           </div>
 
