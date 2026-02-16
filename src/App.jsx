@@ -541,7 +541,7 @@ const App = () => {
         <div className="container">
           <div className="section-title">
             <h2>My Recent Work</h2>
-            <p>See how we've helped businesses transform their digital presence.</p>
+            <p>See how i helped businesses transform their digital presence.</p>
           </div>
 
           <div className="portfolio-grid">
