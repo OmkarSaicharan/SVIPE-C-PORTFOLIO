@@ -246,11 +246,11 @@ const App = () => {
                 Creating Digital Experiences That <span>Inspire</span>
               </h1>
               <p>
-                We craft beautiful, functional websites and applications that help businesses connect with their audience. Our focus is on clean design, intuitive interfaces, and seamless user experiences.
+                I OMKAR craft beautiful, functional websites, ML applications AND ML projects that help businesses connect with their audience and provide good service. My focus is on clean design, intuitive interfaces, seamless user experiences and problem solving.
               </p>
               <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                 <a href="#portfolio" className="btn">
-                  View Our Work
+                  View My Work
                   <i className="fas fa-arrow-right" />
                 </a>
                 <a href="#contact" className="btn btn-outline">
@@ -273,7 +273,7 @@ const App = () => {
       <section id="services" className="section">
         <div className="container">
           <div className="section-title">
-            <h2>What We Offer</h2>
+            <h2>What I Offer</h2>
             <p>Comprehensive digital solutions tailored to your specific needs and goals.</p>
           </div>
 
@@ -284,7 +284,7 @@ const App = () => {
               </div>
               <h3>Web Design</h3>
               <p>
-                Beautiful, responsive websites designed with your brand in mind. We create engaging digital experiences that capture attention and drive conversions.
+                Beautiful, responsive websites designed with your brand in mind. I create engaging digital experiences that capture attention and drive conversions.
               </p>
               <button
                 className="btn btn-outline learn-more-btn"
@@ -344,7 +344,7 @@ const App = () => {
               <div>
                 <h4>Comprehensive Web Design Solutions</h4>
                 <p>
-                  We create visually stunning, user-friendly websites that effectively communicate your brand message and drive business growth. Our approach combines aesthetic appeal with functional excellence.
+                  I create visually stunning, user-friendly websites that effectively communicate your brand message and drive business growth. Our approach combines aesthetic appeal with functional excellence.
                 </p>
 
                 <div className="tech-stack">
@@ -376,7 +376,7 @@ const App = () => {
             </div>
 
             <div className="tech-stack">
-              <h4>Technologies We Use:</h4>
+              <h4>Technologies I Use:</h4>
               <div className="tech-tags">
                 <span className="tech-tag web-design">Figma</span>
                 <span className="tech-tag web-design">Adobe XD</span>
@@ -412,7 +412,7 @@ const App = () => {
               <div>
                 <h4>Custom Web Applications</h4>
                 <p>
-                  We build scalable, high-performance web applications that solve complex business problems. From SaaS platforms to enterprise solutions, we deliver applications that users love.
+                  I build scalable, high-performance web applications that solve complex business problems. From SaaS platforms to enterprise solutions, I deliver applications that users love.
                 </p>
 
                 <div className="tech-stack">
