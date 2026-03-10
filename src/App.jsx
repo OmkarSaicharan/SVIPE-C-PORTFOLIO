@@ -758,7 +758,7 @@ const App = () => {
               <div className="portfolio-content">
                 <h3>FERTILIZER CALCULATOR AND DISEASE DETECTION</h3>
                 <p>
-                  ADVANCED FERTILIZER CALCULATOR AND DISEASE DETECTION
+                  ADVANCED FERTILIZER CALCULATOR AND DISEASE DETECTION. diagnosis and precise fertilizer recommendations for your Indian farm.
                 </p>
                 <a
                   href="https://fertilizercalculatorml.vercel.app/"
