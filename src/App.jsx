@@ -751,7 +751,7 @@ const App = () => {
 
              <div className="portfolio-item">
               <img
-                src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
+                src="https://cdn.mos.cms.futurecdn.net/seywyNxHyXtnicA7ctJyH6-1600-80.jpg"
                 alt="FERTILIZER CALCULATOR AND DISEASE DETECTION"
                 className="portfolio-img"
               />
