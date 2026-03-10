@@ -776,7 +776,7 @@ const App = () => {
 
              <div className="portfolio-item">
               <img
-                src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
+                src="https://tse3.mm.bing.net/th/id/OIP.dzsQLXRzJOWxf0sW7pt5QwHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3"
                 alt="MULTIDISEASE_DETECTION_CNN-ML"
                 className="portfolio-img"
               />
