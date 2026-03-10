@@ -748,6 +748,58 @@ const App = () => {
               </div>
             </div>
 
+
+             <div className="portfolio-item">
+              <img
+                src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
+                alt="Omnistore-express"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>Omnistore-express</h3>
+                <p>
+                  online General store product bookings and pre bookings.Just go and grab items.
+                </p>
+                <a
+                  href="https://omnistore-express.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+
+
+
+             <div className="portfolio-item">
+              <img
+                src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
+                alt="Omnistore-express"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>Omnistore-express</h3>
+                <p>
+                  online General store product bookings and pre bookings.Just go and grab items.
+                </p>
+                <a
+                  href="https://omnistore-express.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+
+
+            
+
             
           </div>
         </div>
