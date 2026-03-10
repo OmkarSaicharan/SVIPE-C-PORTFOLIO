@@ -777,16 +777,17 @@ const App = () => {
              <div className="portfolio-item">
               <img
                 src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
-                alt="Omnistore-express"
+                alt="MULTIDISEASE_DETECTION_CNN-ML"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
-                <h3>Omnistore-express</h3>
+                <h3>MULTIDISEASE_DETECTION_CNN-ML</h3>
                 <p>
-                  online General store product bookings and pre bookings.Just go and grab items.
+                  ALL KIND OF DISEASE DETECTION IN A HUMEN BODY. PROMOTED FOR MBBS PG STD.[Eye (diabetic), Heart (ECG), Lungs (X-ray), Kidneys (USG), Stomach (CT), Organs—liver/thyroid (USG), Trauma (X-ray/CT), Baby health, Child growth & infections, Pregnancy (USG), Cancer—cervical (Pap smear), Fertility (hormones), Bones/joints/spine (X-ray/MRI), Skin & hair, Brain (MRI/fMRI/PET), Chest CT, Tissue & blood microscopy, Mental/behavior, Airway, ICU vitals, Emergency scans, Ear & sinus, Lung disease.
+]
                 </p>
                 <a
-                  href="https://omnistore-express.vercel.app/"
+                  href="https://diagnovaai.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline"
