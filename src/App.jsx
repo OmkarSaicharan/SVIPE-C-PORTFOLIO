@@ -783,7 +783,7 @@ const App = () => {
               <div className="portfolio-content">
                 <h3>MULTIDISEASE_DETECTION_CNN-ML</h3>
                 <p>
-                  ALL KIND OF DISEASE DETECTION IN A HUMEN BODY. PROMOTED FOR MBBS PG STD.[Eye (diabetic), Heart (ECG), Lungs (X-ray), Kidneys (USG), Stomach (CT), Organs—liver/thyroid (USG), Trauma (X-ray/CT), Baby health, Child growth & infections, Pregnancy (USG), Cancer—cervical (Pap smear), Fertility (hormones), Bones/joints/spine (X-ray/MRI), Skin & hair, Brain (MRI/fMRI/PET), Chest CT, Tissue & blood microscopy, Mental/behavior, Airway, ICU vitals, Emergency scans, Ear & sinus, Lung disease.
+                  ALL KIND OF DISEASE DETECTION IN A HUMEN BODY. PROMOTED FOR MBBS PG STD.[Eye, Heart, Lungs (X-ray), Kidneys, Stomach (CT),liver/thyroid, Trauma (X-ray/CT), Pregnancy (USG), Cancer—cervical, Fertility, Bones/joints/spine (X-ray/MRI), Skin & hair, Brain (MRI/fMRI/PET), Chest CT, Tissue & blood microscopy, Ear & sinus, Lung disease.
 ]
                 </p>
                 <a
