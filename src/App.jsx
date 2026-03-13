@@ -798,6 +798,29 @@ const App = () => {
               </div>
             </div>
 
+            <div className="portfolio-item">
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/60df2bfb6db9752ed1d79d44/1625771402738-3KZNL7MCUY3BC3HYFNGR/PPE_EP_101.jpg"
+                alt="SatelliteThrive"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>SatelliteThrive</h3>
+                <p>
+                  Predicting mission longevity and orbital dangers through advanced atmospheric and celestial data synthesis. SatelliteThrive Aerospace Intelligence • Orbital Risk Synthesis.
+                </p>
+                <a
+                  href="https://satillitelife.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+
 
             
 
