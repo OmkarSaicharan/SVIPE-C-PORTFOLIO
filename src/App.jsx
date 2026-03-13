@@ -807,7 +807,7 @@ const App = () => {
               <div className="portfolio-content">
                 <h3>SatelliteThrive</h3>
                 <p>
-                  Predicting mission longevity and orbital dangers through advanced atmospheric and celestial data synthesis. SatelliteThrive Aerospace Intelligence • Orbital Risk Synthesis.
+                  an intelligent framework for Satellite Thruster Health Analysis and Predictive Evaluation, combining telemetry analytics with physics-informed models to assess in-orbit propulsion performance.Predicting mission longevity and orbital dangers through advanced atmospheric and celestial data synthesis. SatelliteThrive Aerospace Intelligence • Orbital Risk Synthesis.
                 </p>
                 <a
                   href="https://satillitelife.vercel.app/"
