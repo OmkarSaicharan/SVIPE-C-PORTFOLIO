@@ -728,11 +728,11 @@ const App = () => {
             <div className="portfolio-item">
               <img
                 src="https://www.bdtask.com/blog/uploads/benefit_Of_using_multistore_ecommerce-platform.jpg"
-                alt="Omnistore-express"
+                alt="OmniStore-express"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
-                <h3>Omnistore-express</h3>
+                <h3>OmniStore-express</h3>
                 <p>
                   A multi‑store ecommerce website lets a business run multiple online shops (for different brands, regions, or customer segments) from one centralized system. Each store can have its own domain, design, catalog, pricing, and language, while inventory, orders, customers, and promotions are controlled from a unified backend. .
                 </p>
