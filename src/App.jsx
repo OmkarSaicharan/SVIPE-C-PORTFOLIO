@@ -734,7 +734,7 @@ const App = () => {
               <div className="portfolio-content">
                 <h3>Omnistore-express</h3>
                 <p>
-                  online General store product bookings and pre bookings.Just go and grab items.
+                  A multi‑store ecommerce website lets a business run multiple online shops (for different brands, regions, or customer segments) from one centralized system. Each store can have its own domain, design, catalog, pricing, and language, while inventory, orders, customers, and promotions are controlled from a unified backend. .
                 </p>
                 <a
                   href="https://omnistore-express.vercel.app/"
