@@ -727,7 +727,7 @@ const App = () => {
 
             <div className="portfolio-item">
               <img
-                src="https://content.jdmagicbox.com/comp/jamshedpur/dc/0657px657.x657.100626172410.a9a9dc/catalogue/bajrang-store-kadma-jamshedpur-general-stores-69wxizir4c.jpg"
+                src="https://www.bdtask.com/blog/uploads/benefit_Of_using_multistore_ecommerce-platform.jpg"
                 alt="Omnistore-express"
                 className="portfolio-img"
               />
