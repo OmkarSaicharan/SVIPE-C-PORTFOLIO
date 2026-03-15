@@ -256,6 +256,15 @@ const App = () => {
                 <a href="#contact" className="btn btn-outline">
                   Get in Touch
                 </a>
+                <a
+  href="https://resumeomkarsaicharan.vercel.app/"
+  className="btn btn-outline"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Resume
+</a>
+
               </div>
             </div>
             <div className="hero-image">
