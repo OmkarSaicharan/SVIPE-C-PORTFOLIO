@@ -253,9 +253,7 @@ const App = () => {
                   View My Work
                   <i className="fas fa-arrow-right" />
                 </a>
-                <a href="#contact" className="btn btn-outline">
-                  Get in Touch
-                </a>
+               
                 <a
   href="https://resumeomkarsaicharan.vercel.app/"
   className="btn btn-outline"
