@@ -264,6 +264,14 @@ const App = () => {
 >
   Resume
 </a>
+                 <a
+  href="https://herosection-psi.vercel.app/"
+  className="btn btn-outline"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Hero Section
+</a>
 
               </div>
             </div>
