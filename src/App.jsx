@@ -882,7 +882,7 @@ const App = () => {
                 <i className="fas fa-user" />
               </div>
               <h4></h4>
-              <p>Project Manager</p>
+              <p>Project Management</p>
             </div>
           </div>
         </div>
