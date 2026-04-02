@@ -849,7 +849,7 @@ const App = () => {
         <div className="container">
           <div className="section-title">
             <h2>Me Who ..</h2>
-            <p>Passionate professionals dedicated to creating exceptional digital solutions.</p>
+            <p>Passionate professional dedicated to creating exceptional digital solutions.</p>
           </div>
 
           <div className="team-grid">
