@@ -563,14 +563,35 @@ const App = () => {
               <div className="portfolio-item">
               <img
                 src="https://tse2.mm.bing.net/th/id/OIP.hXr0Ky7pENLHKdgB480C0gHaC_?pid=Api&P=0&h=180"
-                alt="Dashboard Design"
+                alt="LMS KL UNIVERSITY"
                 className="portfolio-img"
               />
               <div className="portfolio-content">
-                <h3>LMS KL UNIVERSITY </h3>
+                <h3>LMS KL UNIVERSITY</h3>
                 <p>A Learning Management System (LMS) for KL University to make academic learning more organized, accessible, and interactive for students and faculty. The platform is designed to manage study materials, video lessons, quizzes, assignments, and learning progress in one place, supporting the core purpose of an LMS: creating, organizing, delivering, and tracking educational content digitally.</p>
                 <a
                   href="https://kllms.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+
+             <div className="portfolio-item">
+              <img
+                src="https://tse4.mm.bing.net/th/id/OIP.OQM5s2z8OWEToD42RZOS0gHaEK?pid=Api&P=0&h=180"
+                alt="English learning platform"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>English learning platform</h3>
+                <p>Developed a custom English learning platform for a client's institution, creating an interactive LMS tailored for their students to master English grammar, vocabulary, and communication skills. The platform delivers structured lessons, quizzes, progress tracking, and study materials through an intuitive interface, making language learning engaging and effective for institutional use.</p>
+                <a
+                  href="https://lingolearn-nine.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="btn btn-outline"
