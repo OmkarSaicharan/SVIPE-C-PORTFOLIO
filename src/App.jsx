@@ -560,6 +560,27 @@ const App = () => {
           </div>
 
           <div className="portfolio-grid">
+              <div className="portfolio-item">
+              <img
+                src="https://tse2.mm.bing.net/th/id/OIP.hXr0Ky7pENLHKdgB480C0gHaC_?pid=Api&P=0&h=180"
+                alt="Dashboard Design"
+                className="portfolio-img"
+              />
+              <div className="portfolio-content">
+                <h3>LMS KL UNIVERSITY </h3>
+                <p>A Learning Management System (LMS) for KL University to make academic learning more organized, accessible, and interactive for students and faculty. The platform is designed to manage study materials, video lessons, quizzes, assignments, and learning progress in one place, supporting the core purpose of an LMS: creating, organizing, delivering, and tracking educational content digitally.</p>
+                <a
+                  href="https://omkarsaicharan.github.io/predictiveMmaintenance/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline"
+                  style={{ padding: '0.75rem 1.5rem', fontSize: '0.875rem' }}
+                >
+                  View Project
+                </a>
+              </div>
+            </div>
+            
             <div className="portfolio-item">
               <img
                 src="https://media.istockphoto.com/id/1455412082/photo/mobile-phone-or-smartphone-with-cart-shopping-paper-bags-isolated-on-pink-background-online.jpg?s=612x612&w=0&k=20&c=y9nnUaWtjiRyL9npeLzttRlBIZ-e2HxP7fWBL9zeImE="
